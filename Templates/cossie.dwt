@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CossiePlay</title>
+<link href="../css/master.css" rel="stylesheet" type="text/css">
+</head>
+<body class="back">
+<nav class="fixed-nav-bar">
+<p><table class="fixed-nav-bar" width="100%" border="0">
+  <tbody>
+    <tr>
+      <th scope="col"><a href="../index.html" class="logo">CossiePlay</a></th>
+      <th scope="col"><a href="../about_us.html">About Us</a></th>
+      <th scope="col"><a href="../costumes.html">Costumes</a></th>
+      <th scope="col"><a href="../party.html">Party With Us!</a></th>
+    </tr>
+  </tbody>
+</table>
+</p>
+</nav>
+<!-- TemplateBeginEditable name="body" -->
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!-- TemplateEndEditable -->
+<p class="footer">4 Stanton Avenue, Hulkstown<br>What is this? This is CossiePlay! Hulkstown's local Cosplay shop catering all your Cosplay needs!<br>
+<a href="https://en.wikipedia.org/wiki/Cosplay" class="footer_links">What is Cosplay</a> | <a href="http://www.cosplay.com" class="footer_links">The World's Largest Cosplay Community</a> | <a href="http://www.cosplaytutorial.com/index.php" class="footer_links">Resource for customers</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Need help?</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Contact Us:</strong><br>
+&nbsp;&nbsp;&nbsp;cossieplay@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phone &nbsp; 07 4771 1234<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 07 4771 1235</p>
+</body>
+</html>
